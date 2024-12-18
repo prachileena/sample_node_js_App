@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
+    "url": "https://github.com/prachileena/sample_node_js_App.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
+    "url": "https://github.com/prachileena/sample_node_js_App.git"
   },
-  "homepage": "https://github.com/CloudTechDevOps/sample_nodejs_on_Ec2"
+  "homepage": "https://github.com/prachileena/sample_node_js_App.git"
 }

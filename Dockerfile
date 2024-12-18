@@ -2,7 +2,7 @@
 FROM node:18
 
 # Maintainer information
-LABEL maintainer="veera <veera.narni232@gmail.com>"
+LABEL maintainer="prachileena<prachileenapradhan2003@gmail.com>"
 
 # Copy all application files into the container
 COPY . /app
@@ -17,4 +17,4 @@ RUN npm install
 EXPOSE 3000
 
 # Command to run the application
-CMD ["node", "app.js"]
+CMD ["node", "index.js"]
